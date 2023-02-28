@@ -1,0 +1,5 @@
+# ignore the corpus body
+corpus/
+# ignore output txt files
+*.txt
+*.png
